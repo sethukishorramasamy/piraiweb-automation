@@ -1,0 +1,14 @@
+Problem Statement & Assignment that assigned to me
+1. Write a selenium script to automate the testing of the following webpage.
+2. https://piraiinfo.com/
+3. Launch the above-mentioned website in Firefox browser and navigate to the home page.
+4. Navigate the About Us, Data Services, Cloud Services, DevOps Services and Submit the Contact Us form using Selenium script.
+
+While reviewing the task details, I noticed a slight discrepancy between the provided task description and the current content on the website.  The sections labelled "Data Services" and "Cloud Services" are not present on the website. Additionally, I was unable to locate the "Contact Us" form; instead, it appears to be labelled as "Enquire Now". 
+So there was a slight difference between the provided and implemented problem statement.
+
+Problem Statement that I implemented
+1. Write a selenium script to automate the testing of the following webpage.
+2. https://piraiinfo.com/
+3. Launch the above-mentioned website in Firefox browser and navigate to the home page.
+4. Navigate the About Us, DevOps Services and Submit the Enquire Now form using Selenium script.
